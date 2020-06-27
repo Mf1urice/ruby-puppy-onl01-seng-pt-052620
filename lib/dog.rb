@@ -5,3 +5,4 @@ class Dog
     @name = name
     self.save
   end
+end 
